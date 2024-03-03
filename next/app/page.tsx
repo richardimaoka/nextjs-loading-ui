@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>empty application</main>;
+  return <main>top page</main>;
 }
